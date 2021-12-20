@@ -1,0 +1,81 @@
+CMA
+const   -0.003664
+rm-rf   -0.129953
+SMB     -0.160177
+HML      0.226208
+RMW     -0.546834
+dtype: float64
+t values:
+const   -1.122123
+rm-rf   -3.055900
+SMB     -1.172575
+HML      1.575989
+RMW     -3.454085
+dtype: float64
+0.5329634891753422
+
+SMB
+const   -0.000372
+rm-rf   -0.171756
+CMA     -0.313567
+HML     -0.763688
+RMW     -0.828603
+dtype: float64
+t values:
+const   -0.079479
+rm-rf   -2.832426
+CMA     -1.172575
+HML     -5.177989
+RMW     -3.898580
+dtype: float64
+0.9077041478277337
+
+HML
+const   -0.000789
+rm-rf   -0.036806
+SMB     -0.664779
+CMA      0.385479
+RMW      0.021628
+dtype: float64
+t values:
+const   -0.180840
+rm-rf   -0.572285
+SMB     -5.177989
+CMA      1.575989
+RMW      0.086656
+dtype: float64
+0.8722934872133281
+
+RMW
+const    0.000878
+rm-rf   -0.173761
+SMB     -0.445226
+HML      0.013350
+CMA     -0.575202
+dtype: float64
+t values:
+const    0.256397
+rm-rf   -4.604404
+SMB     -3.898580
+HML      0.086656
+CMA     -3.454085
+dtype: float64
+0.8225140973088965
+
+rm-rf
+const    0.005956
+CMA     -2.033499
+SMB     -1.372897
+HML     -0.337979
+RMW     -2.584916
+dtype: float64
+t values:
+const    0.452019
+CMA     -3.055900
+SMB     -2.832426
+HML     -0.572285
+RMW     -4.604404
+dtype: float64
+0.527833575561646
+
+Process finished with exit code 0
